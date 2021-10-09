@@ -24,7 +24,7 @@
   <img align="center" alt="Manu-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manu-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="manu-pic" height="140" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_Msx7xB9N.png">
+  <img align="right" alt="manu-pic" height="140" margin-right="40" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_Msx7xB9N.png">
 </div>
   
   ##
