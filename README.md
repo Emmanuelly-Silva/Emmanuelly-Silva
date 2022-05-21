@@ -1,4 +1,4 @@
-### Hello there, I'm Emmanuelly Silva 👋
+### Hello there, I'm Emmanuelly 👋
 
 <!-- - 🔭 I’m currently working on ...  -->
 <!-- - 🌱 I’m currently learning ...  -->
@@ -8,16 +8,16 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on projects that use JavaScript, PHP and MySQL -->
-- 🌱 I'm trying to learn HTML, CSS, JavaScript, PHP and MySQL
+<!-- - 🌱 I'm trying to learn HTML, CSS, JavaScript, PHP and MySQL -->
 - 👯 I'm looking to collaborate on the project front-end
-- 📫 How to reach me: emmanuelly_04@hotmail.com
+- 📫 How to reach me: emmanuelly_04@hotmail.com or lavinia.emmanuelly04@gmail.com
 
 ##
 
 <div align="left">
   <a href="https://github.com/Emmanuelly-Silva">
-  <img height="185em" width="400" src="https://github-readme-stats.vercel.app/api?username=Emmanuelly-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="185em" width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelly-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Emmanuelly-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <!-- <img height="125em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelly-Silva&layout=compact&langs_count=7&theme=algolia"/> -->
 </div>
 
 <div style="display: inline_block"><br>
