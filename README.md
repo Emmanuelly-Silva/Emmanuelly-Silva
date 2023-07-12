@@ -1,40 +1,39 @@
-### Olá, eu sou a Emmanuelly 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=2900&pause=2000&color=CE89FD&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Emmanuelly+welcome+to+my+github!" align="middle" alt="Hi, I'm Emmanuelly welcome to my github!" />
+</p>
 
-<!-- - 🔭 I’m currently working on ...  -->
-<!-- - 🌱 I’m currently learning ...  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-<!-- - 👯 I’m looking to collaborate on projects that use JavaScript, PHP and MySQL -->
-<!-- - 🌱 I'm trying to learn HTML, CSS, JavaScript, PHP and MySQL -->
-<!-- - 👯 I'm looking to collaborate on the project front-end -->
-<!-- - ⚡ Atualmente estou estudando e iniciando projetos front-end -->
-- 📫 emmanuelly_04@hotmail.com / lavinia.emmanuelly04@gmail.com
+<hr/>
 
-##
+#### I'm a student of Computing Systems in Federal Fluminense University (UFF), currently i'm focused on developing my skills in HTML, CSS, JS and GIT.
 
-<div align="left">
-  <a href="https://github.com/Emmanuelly-Silva">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emmanuelly-silva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelly-silva&layout=compact&langs_count=7&theme=algolia"/>
+# 💻 Tech Stacks
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br>
+
+# 🌐 Contacts
+<div style="display: inline_block">
+  <a href="mailto:emmanuellylavinia.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="mailto:emmanuelly_04@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</div>
+<br>
+
+# 📊 GitHub Stats
+<div style="display: inline_block">
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Emmanuelly-Silva&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelly-Silva&theme=neon&hide_border=false"  width="400px" />
+  <br><br>
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Emmanuelly-Silva&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="364px"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Manu-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Manu-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Manu-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="manu-pic" height="140" src="https://media.discordapp.net/attachments/873674359380803606/977695747548000316/unknown.png?width=453&height=453">
-</div>
-  
-  ##
-<div>
-  <a href="https://mail.google.com/mail/u/lavinia.emmanuelly04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Emmanuelly-Silva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Emmanuelly-Silva/Emmanuelly-Silva/blob/output/github-contribution-grid-snake.svg)
-</div>  
-  
-  
-  
+# 🐍 Activities 
+![Snake animation](https://github.com/Emmanuelly-Silva/Emmanuelly-Silva/blob/output/github-contribution-grid-snake.svg)
