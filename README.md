@@ -5,6 +5,7 @@
 <hr/>
 
 #### I'm a student of Computing Systems in Federal Fluminense University (UFF), currently i'm focused on developing my skills in HTML, CSS, JS and GIT.
+see my <a href="https://cvkeep.com/cv/emmanuelly" target="_blank">CV Online</a>
 
 # 💻 Tech Stacks
 
