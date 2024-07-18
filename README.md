@@ -4,26 +4,27 @@
 
 <hr/>
 
-#### I'm a student of Computing Systems in Federal Fluminense University (UFF), currently i'm focused on developing my skills in HTML, CSS, JS and GIT.
-see my <a href="https://cvkeep.com/cv/emmanuelly" target="_blank">CV Online</a>
+#### Olá, meu nome é Emmanuelly, sou estudante de Computação na UFF e formada no curso técnico de Informática do IFRJ. Atualmente estou em busca de experiência profissional na área de tecnologia e focada em desenvolver minhas habilidades em programação.
 
-# 💻 Tech Stacks
+# 💻 Tecnologias
+Veja meu [Currículo](https://github.com/user-attachments/files/16289352/cv_emmanuelly.pdf)
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
 
-# 🌐 Contacts
+# 🌐 Contatos
 <div style="display: inline_block">
   <a href="mailto:emmanuellylavinia.silva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:emmanuelly_04@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="www.linkedin.com/in/emmanuelly-da-silva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 <br>
