@@ -7,7 +7,8 @@
 #### Olá, meu nome é Emmanuelly, sou estudante de Computação na UFF e formada no curso técnico de Informática do IFRJ. Atualmente estou em busca de experiência profissional na área de tecnologia e focada em desenvolver minhas habilidades em programação.
 
 # 💻 Tecnologias
-Veja meu [Currículo](https://github.com/user-attachments/files/16289352/cv_emmanuelly.pdf)
+Veja meu [Currículo](https://github.com/user-attachments/files/16354522/cv_emmanuelly.pdf)
+
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
